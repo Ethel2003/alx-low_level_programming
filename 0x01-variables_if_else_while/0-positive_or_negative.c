@@ -24,9 +24,10 @@ int main(void)
 	}
 	else if (n == 0)
 	{
-                printf("%d is %s\n", n, "zero");
+         	printf("%d is %s\n", n, "zero");
         }
-	else{
+	else
+	{
 		printf("%d is %s\n", n, "negative");
 	}
 	return (0);
