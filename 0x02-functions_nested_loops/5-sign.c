@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - prints the sign of the given number +/-
+ *print_sign - prints the sign of the given number +/-
  * @n: Number to be tested
  *
  *
