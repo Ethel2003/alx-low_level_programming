@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print alphabet x10 - write the the lower-case alphabet on a line.
- *
+ * main - write the the lower-case alphabet on a line.
+ * Return: Always 0.
  */
 void print_alphabet_x10(void)
 {
