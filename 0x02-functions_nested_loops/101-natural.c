@@ -11,7 +11,7 @@ int main(void)
 
 	for (j = 0; j < 1024; j++)
 		if (j % 3 == 0 || j % 5 == 0)
-			resp += i;
+			resp += j;
 	printf("%d\n", resp);
 	return (0);
 }
