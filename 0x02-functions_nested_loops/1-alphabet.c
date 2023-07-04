@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet - prints the english alphabet from a to z.
+ *main -  print_alphabet - prints the english alphabet from a to z.
  * Return: Nothing.
  */
 void print_alphabet(void)
