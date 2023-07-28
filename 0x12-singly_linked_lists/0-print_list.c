@@ -7,7 +7,7 @@
  *
  * Return: Number of elements in a list.
  */
-size_t print_listint(const listint_t *l)
+size_t print_list(const list_t *l)
 {
 	size_t n_nodes = 0;
 
@@ -22,4 +22,3 @@ size_t print_listint(const listint_t *l)
 	}
 	return (n_nodes);
 }
-
